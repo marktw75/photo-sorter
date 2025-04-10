@@ -1,0 +1,8 @@
+# 基本操作
+Pillow            # 處理圖片 (開圖, 看尺寸, 解析度)
+opencv-python     # 偵測人臉用
+exifread          # 讀取 EXIF 資訊
+rich              # 美化 CLI 輸出 (非必要，但推薦)
+
+# 未來可考慮
+# face_recognition  # 強化人臉偵測（optional）
